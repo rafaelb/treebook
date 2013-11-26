@@ -10,13 +10,14 @@ end
 
 group :production do
 	gem 'pg'
+  gem 'newrelic_rpm'
 end
 
 gem 'simple_form'
 
 gem 'devise'
 
-gem 'newrelic_rpm'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
