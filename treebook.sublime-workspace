@@ -183,7 +183,7 @@
 			"file": "Gemfile",
 			"settings":
 			{
-				"buffer_size": 867,
+				"buffer_size": 887,
 				"line_ending": "Unix"
 			}
 		}
@@ -364,15 +364,15 @@
 					"file": "Gemfile",
 					"settings":
 					{
-						"buffer_size": 867,
+						"buffer_size": 887,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								224,
-								224
+								277,
+								277
 							]
 						],
 						"settings":
